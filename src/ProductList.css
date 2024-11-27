@@ -305,3 +305,8 @@ body {
     display: inline-block;
     vertical-align: middle;
 }
+
+.product-button.added-to-cart {
+    background-color: #808080;
+    cursor: not-allowed;
+}
